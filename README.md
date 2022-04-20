@@ -1,4 +1,5 @@
 ## Olá, eu sou o victor ✌️:
+- Sou um desenvolver apaixonado por inovação e solução de problemas sempre em busca de melhorar e absorver novos conhecimentos, gosto de atuar principalmente como desenvolver front-end porém já atuei como full-stack, sou bem comunicativo e curioso.
 
 ### Seja bem vindo ao meu perfil ✨:
 
