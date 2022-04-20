@@ -27,6 +27,8 @@
  </div><br/>
  
  ### Histórico 📖:
+ - Estagiário CNJ (Conselho nacional de justiça) em Brasília.
+ - Desenvolvedor Full-stack na CJR (Computação junior). 
  - Estudante de Engenharia de computação na universidade de Brasília (UNB).
  
  ### Gostou do oque viu ?? 🤯🤯 Entre em contato:
