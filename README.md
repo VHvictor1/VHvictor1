@@ -1,10 +1,9 @@
 ## Olá, eu sou o victor ✌️:
-- Sou um desenvolver apaixonado por inovação e solução de problemas, sempre em busca de melhorar e absorver novos conhecimentos, gosto de atuar principalmente como desenvolver front-end porém já atuei como full-stack, sou bem comunicativo e curioso.
+- Sou um desenvolver apaixonado por inovação e solução de problemas, sempre em busca de melhorar e absorver novos conhecimentos, gosto de atuar principalmente como desenvolver front-end porém já atuei como full-stack, sou bem comunicativo, proativo e curioso.
 
 ### Seja bem vindo ao meu perfil ✨:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-da-silva-de-oliveira-916275212/)
-[![Site](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://www.boavista.rr.leg.br/imagens/emconstruo.jpg/image_view_fullscreen)
 
 ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=VHvictor1&show_icons=true&theme=dracula&count_private=true)
 
@@ -28,7 +27,8 @@
  
  ### Histórico 📖:
  - Estagiário CNJ (Conselho nacional de justiça) em Brasília.
- - Desenvolvedor Full-stack na CJR (Computação junior). 
+ - Estagiário de desenvolvimento Full stack, javascript e ruby on rails na Lockin (https://www.lockin.com.br/). 
+ - Desenvolvedor Full-stack na CJR (https://cjr.org.br/). 
  - Estudante de Engenharia de computação na universidade de Brasília (UNB).
  
  ### Gostou do oque viu ?? 🤯🤯 Entre em contato:
