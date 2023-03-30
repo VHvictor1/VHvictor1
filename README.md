@@ -16,16 +16,17 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
   <img align="center" alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div><br/>
 
 ### Futuro conhecimento 🧠:
 <div style="display: inline_block">
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
  </div><br/>
  
  ### Histórico 📖:
+ - Estagiário da Switch dreams desenvolvedor front-end (Atual)(https://switchdreams.com.br/)
  - Estagiário CNJ (Conselho nacional de justiça) em Brasília.
  - Estagiário de desenvolvimento Full stack, javascript e ruby on rails na Lockin (https://www.lockin.com.br/). 
  - Desenvolvedor Full-stack na CJR (https://cjr.org.br/). 
